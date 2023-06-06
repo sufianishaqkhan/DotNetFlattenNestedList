@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenList", "FlattenList\FlattenList.csproj", "{789E4A1A-B075-4C02-8474-489CD3536FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789E4A1A-B075-4C02-8474-489CD3536FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789E4A1A-B075-4C02-8474-489CD3536FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789E4A1A-B075-4C02-8474-489CD3536FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789E4A1A-B075-4C02-8474-489CD3536FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E752A15-4E22-4B2E-BF8F-D96185E6AC67}
+	EndGlobalSection
+EndGlobal
